@@ -1,0 +1,8 @@
+/Users/mbogdanov/Documents/Code/ShoppingListApp/bin/Debug/netcoreapp1.0/ShoppingListApp.deps.json
+/Users/mbogdanov/Documents/Code/ShoppingListApp/bin/Debug/netcoreapp1.0/ShoppingListApp.runtimeconfig.json
+/Users/mbogdanov/Documents/Code/ShoppingListApp/bin/Debug/netcoreapp1.0/ShoppingListApp.runtimeconfig.dev.json
+/Users/mbogdanov/Documents/Code/ShoppingListApp/bin/Debug/netcoreapp1.0/ShoppingListApp.dll
+/Users/mbogdanov/Documents/Code/ShoppingListApp/bin/Debug/netcoreapp1.0/ShoppingListApp.pdb
+/Users/mbogdanov/Documents/Code/ShoppingListApp/obj/Debug/netcoreapp1.0/ShoppingListApp.AssemblyInfo.cs
+/Users/mbogdanov/Documents/Code/ShoppingListApp/obj/Debug/netcoreapp1.0/ShoppingListApp.dll
+/Users/mbogdanov/Documents/Code/ShoppingListApp/obj/Debug/netcoreapp1.0/ShoppingListApp.pdb
